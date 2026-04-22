@@ -12,7 +12,7 @@ SMTP_PORT = 25
 SCREENSHOT_SENDER = "robot@friend.dk"
 
 # Constant/Credential names
-ERROR_EMAIL = "Error email Sebastian"
+ERROR_EMAIL = "Error Email Sebastian"
 
 
 # Queue specific configs
